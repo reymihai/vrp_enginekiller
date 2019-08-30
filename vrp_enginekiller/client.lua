@@ -42,7 +42,7 @@ vRP = Proxy.getInterface("vRP")
 			  TaskStartScenarioInPlace(playerPed, "PROP_HUMAN_BUM_BIN", 0, true)
 			  
   
-			  --TriggerServerEvent('InteractSound_SV:PlayWithinDistance', 2.0, 'break-in', 0.7) --ENABLE THIS IF YOU ARE USING INTERACTSOUNDS
+			  
   
 			  Citizen.Wait(PryBonnetTime * 1000)
   
